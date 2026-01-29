@@ -1,0 +1,6 @@
+ticker,name,quantity,avg_cost
+AAPL,Apple Inc.,50,145.00
+MSFT,Microsoft Corp.,30,310.00
+GOOGL,Alphabet Inc.,15,135.00
+NVDA,NVIDIA Corp.,20,450.00
+META,Meta Platforms,25,290.00

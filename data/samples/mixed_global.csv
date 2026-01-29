@@ -1,0 +1,6 @@
+ticker,name,quantity,avg_cost,currency
+AAPL,Apple Inc.,30,145.00,USD
+MSFT,Microsoft Corp.,20,310.00,USD
+005930.KS,삼성전자,100,68000.00,KRW
+000660.KS,SK하이닉스,30,125000.00,KRW
+GOOGL,Alphabet Inc.,10,135.00,USD
